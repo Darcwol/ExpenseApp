@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinanseManagerPjatk</string>
+    <string name="addDesc">Button to add new expense</string>
+    <string name="where_hint">Biedronka, Multikino, PJATK</string>
+    <string name="name">Name</string>
+    <string name="price_hint">15.5</string>
+    <string name="price">Price</string>
+    <string name="date_hint">28/05/2020 12:35</string>
+    <string name="date">Date</string>
+    <string name="category">Category</string>
+    <string name="category_hint">jedzenie, zdrowie, opłaty, rozrywka</string>
+    <string name="save">Save</string>
+    <string name="descOfDateTimePickerBtn">Show dateTime picker</string>
+    <string name="button_to_go_to_chart_view">Button to go to chart view</string>
+</resources>
